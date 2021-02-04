@@ -1,0 +1,100 @@
+{
+    "items" : [
+        {
+            "title" : "Jordan 1 Retro Chicago",
+            "price" : "$2,000",
+            "description" : "The Jordan 1 High Chicago is composed of a white leather upper with red overlays. A black swoosh with a white midsole and black outsole complete the design.",
+            "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-Chicago-2015-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1607656901",
+            "cost" : "high",
+            "type" : "jordan-1"
+        },
+        {
+            "title" : "Smoke Grey Jordan 1",
+            "price" : "$270",
+            "description" : "The Jordan 1 High Light Smoke Grey is composed of a white leather upper with grey suede overlays and a red leather ankle panel. Black suede on the heel paneling and Swoosh, a white midsole, and black outsole completes the design.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-1-Retro-High-Light-Smoke-Grey/Images/Air-Jordan-1-Retro-High-Light-Smoke-Grey/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1594243826&w=1000",
+            "cost" : "low",
+            "type" : "jordan-1"
+        },
+        {
+            "title" : "Jordan 4 Retro Metallic Red",
+            "price" : "$450",
+            "description" : "This Jordan 4 features a white leather upper with white netted underlays and Metallic Red detailing on the upper eyelets. A Metallic Red Jumpman logo on the heel, white sole, and Metallic Red Air bubble complete the design.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-4-Retro-White-University-Red/Images/Air-Jordan-4-Retro-White-University-Red/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1602273424&w=1000",
+            "cost" : "low",
+            "type" : "jordan-4"
+        },
+        {
+            "title" : "Jordan 1 Retro High Off-White Chicago",
+            "price" : "$4,500",
+            "description" : "Nicknamed The 10 edition, this pair comes in the original Chicago-themed white, black and varsity red colorway. Featuring a white, red and black-based deconstructed leather upper with a Swooshless medial side branded with Off-White for Nike Air Jordan 1, Beaverton, Oregon, USA © 1985.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-1-Retro-High-Off-White-Chicago/Images/Air-Jordan-1-Retro-High-Off-White-Chicago/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1538080256&w=1000",
+            "cost" : "high",
+            "type" : "jordan-1"
+        },
+        {
+            "title" : "Jordan 4 Retro Off-White Sail",
+            "price" : "$2,000",
+            "description" : "The Air Jordan 4 Sail features full-grain leather uppers with hits of mesh and translucent materials on the toebox and heel of the shoe. From there, hits of light blue on the tongue’s Jumpman and the outsole’s Nike Swoosh provide contrast to the sail colored sneaker.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-4-Retro-Off-White-Sail-W/Images/Air-Jordan-4-Retro-Off-White-Sail-W/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1596134320&w=1000",
+            "cost" : "high",
+            "type" : "jordan-4"
+        },
+        {
+            "title" : "Nike Dunk Low Off-White University Gold Midnight Navy",
+            "price" : "$600",
+            "description" : "This Dunk Low is comprised of a university gold leather upper with midnight navy overlays. A unique secondary lacing system, zip-ties, and signature Off-White text on the sides completes the design.",
+            "image" : "https://stockx-360.imgix.net//Nike-Dunk-Low-Off-White-Michigan/Images/Nike-Dunk-Low-Off-White-Michigan/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1577487205&w=1000",
+            "cost" : "low",
+            "type" : "dunk-lows"
+        },
+        {
+            "title" : "Nike Dunk Low University Red",
+            "price" : "$350",
+            "description" : "The Nike Dunk Low SP White University Red is composed of a white leather upper with red leather overlays. A white midsole, red outsole, and classic Nike branding on the tongue completes the design.",
+            "image" : "https://stockx-360.imgix.net//Nike-Dunk-Low-St-Johns-2020/Images/Nike-Dunk-Low-St-Johns-2020/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1596134320&w=1000",
+            "cost" : "low",
+            "type" : "dunk-lows"
+        },
+        {
+            "title" : "Nike SB Dunk Low Travis Scott",
+            "price" : "$1,800",
+            "description" : "This Nike SB Dunk Low is composed of suede upper with paisley canvas and plaid flannel overlays. As the paisley overlays wear off, an elephant print is revealed. Embroidered text around the collar, rope laces, and La Flame’s Cactus Jack logo on the puffy tongues completes this design.",
+            "image" : "https://stockx-360.imgix.net//Nike-SB-Dunk-Low-Travis-Scott/Images/Nike-SB-Dunk-Low-Travis-Scott/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1582235884&w=1000",
+            "cost" : "medium",
+            "type" : "dunk-lows"
+        },
+        {
+            "title" : "Jordan 1 Retro High Travis Scott",
+            "price" : "$2,000",
+            "description" : "This AJ1 comes with a brown upper plus white accents, black Nike Swoosh, sail midsole, and a brown sole.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-1-Retro-High-Travis-Scott/Images/Air-Jordan-1-Retro-High-Travis-Scott/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1550180948&w=1000",
+            "cost" : "high",
+            "type" : "jordan-1"
+        },
+        {
+            "title" : "Jordan 3 Retro UNC",
+            "price" : "$320",
+            "description" : "This Jordan 3 is comprised of a white tumbled leather upper with grey elephant print mudguards and valor blue detailing. A white rubber heel tab, visible Air unit, and grey outsole completes this design",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-3-Retro-UNC-2020/Images/Air-Jordan-3-Retro-UNC-2020/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1582565699&w=1000",
+            "cost" : "low",
+            "type" : "jordan-3"
+        },
+        {
+            "title" : "Jordan 1 Retro Shattered Backboard",
+            "price" : "$1,300",
+            "description" : "This Jordan 1 Retro Shattered Backboard is comprised of a white leather upper with a black overlay and orange accents.",
+            "image" : "https://stockx-360.imgix.net/Air-Jordan-1-Retro-Shattered-Backboard/Images/Air-Jordan-1-Retro-Shattered-Backboard/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606318923&w=1000",
+            "cost" : "medium",
+            "type" : "jordan-1"
+        },
+        {
+            "title" : "Jordan 1 Retro High Union Los Angeles Black Toe",
+            "price" : "$2,000",
+            "description" : "This unique Jordan 1 comes with a white leather upper with a red accent, black Nike “Swoosh”, cream midsole, and red sole.",
+            "image" : "https://stockx-360.imgix.net//Air-Jordan-1-Retro-High-Union-Los-Angeles-Black-Toe/Images/Air-Jordan-1-Retro-High-Union-Los-Angeles-Black-Toe/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1544832311&w=1000",
+            "cost" : "high",
+            "type" : "jordan-1"
+        }
+    ]
+}

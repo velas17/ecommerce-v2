@@ -1,0 +1,84 @@
+/* Filter */
+.form-container {
+  margin: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+}
+
+.form-container #filterSelect {
+  font-size: 15px;
+  letter-spacing: .2rem;
+}
+
+.form-container #priceSelect {
+  font-size: 15px;
+  letter-spacing: .2rem;
+}
+.form-container .filters{
+  text-transform: uppercase;
+  letter-spacing: .5rem;
+}
+
+
+/* PRODUCT CARD CSS */
+#Product-card > div {
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  grid-gap: 23px;
+  padding: 32px 70px;
+  }
+
+  .Product {
+    /* border: 1px solid #aaa; */
+    background-color: #fdfdfdd2;
+    box-shadow: 1px 1px 3px rgba(133, 129, 129, 0.74);
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+
+  .Product-name{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: .1rem;
+    text-align: center;
+  }
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  .Product-card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  .Product-card button:hover {
+    opacity: 0.7;
+  }
+
+  /* Product Card img */
+  .Product-card-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 220px;
+  }
+  
+
+
+
+
+
+
+  
+  

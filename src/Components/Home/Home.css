@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+  /* css for my main header */
+  h2{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 1rem;
+    width: 2rem;
+    /* color: #000000; */
+    letter-spacing: .3rem;
+    /* font-size: 2rem; */
+  }
+
+  p{
+    /* width: 80%;   */
+    text-align: center;
+  }
+
+  /* slider css */
+  .slider {
+    position: relative;
+    /* height: 100vh; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+  }
+
+  #position-slider{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .image{
+    width: 1100px;
+    height: 650px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+
+  .right-arrow {
+    position: absolute;
+    top: 50%;
+    right: 60px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+    }
+
+  .left-arrow {
+    position: absolute;
+    top: 50%;
+    left: 60px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+  }
+  /* slide image positon css */
+
+  @media (max-width:768px) {
+    .image{
+      width: 500px;
+      height: auto;
+    }
+
+  }
+
+  @media (max-width: 375px) {
+    .image{
+      width:300px;
+      height: auto;
+    }
+    .right-arrow{
+      top: 108%;
+      font-size: 2rem;
+    }
+    .left-arrow{
+      top: 108%;
+      font-size: 2rem;
+    }
+  }

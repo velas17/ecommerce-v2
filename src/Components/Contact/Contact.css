@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* CSS for my CONTACT PAGE */
+body{
+    margin: 0
+  }
+  h2{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+        text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding: 0;
+    width:100%;
+    margin:0;
+    color:rgb(61,66,70);
+    letter-spacing:2px;
+    padding-top: 20px
+  }
+  form{
+    background-color: rgb(245,245,245);
+    margin: 40px 350px 50px;
+    /* width: 80%; */
+    height: 40vh;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: rgb(61,66,70);
+    padding: 35px;
+    text-align: center;
+  }
+form > label{
+  font-family: 'Roboto Mono', monospace;
+  margin-bottom: 1em;
+  margin-right: 0.5em;
+  font-size: 1.5em;
+  color: #444;
+  font-weight: lighter;
+}
+
+form > input {
+  font-size: 1em;
+  font-weight: lighter;
+  color: #bbb;
+  text-align: center;
+  width: 50%;
+  height: 2em;
+}
+textarea {
+  width: 100px;
+  height: 100px;
+  padding: 10px 80px;
+  /* height: 30px; */
+  /* text-align: center; */
+}
+
+  footer{
+    background-color: rgb(245,245,245);
+    /* font-size: 16px; */
+   text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color:rgb(61,66,70);
+    padding-bottom: 80px;
+    padding-top: 40px;
+    margin-top:80px;
+  }
